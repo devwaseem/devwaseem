@@ -5,7 +5,6 @@
 From quality of code to a great user experience, 
 I strive for everything. <br/>Full time **Developer**. Part time **Hacker**.
 
-Hiring? Checkout my [resume](https://dvlper.in/resume.pdf)
 
 ## Reach me via 👇
 
