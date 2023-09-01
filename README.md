@@ -1,11 +1,5 @@
 ### Hi there, I'm Waseem Akram 👋
 
-#  A Full Stack iOS Developer
-
-From quality of code to a great user experience, 
-I strive for everything. <br/>Full time **Developer**. Part time **Hacker**.
-
-
 ## Reach me via 👇
 
 [![Email](https://img.shields.io/badge/Email-blue.svg?style=for-the-badge&logo=email)](mailto:hello@dvlper.in)
